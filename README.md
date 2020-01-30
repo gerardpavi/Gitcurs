@@ -1,10 +1,3 @@
-Hello worlgold
-Hello world
-
-EIS COM ESTEM TOTdesdellavorsS
- d eiiii
-How are you eiiii
-=======
 Hello worlold
 Hello world
 
@@ -13,5 +6,6 @@ eiiii
 How are you eiiie que chorprecha
 ola
 yups
-MALAMENTE
+MALAMENT
 tra tra
+aixi si
